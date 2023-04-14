@@ -1,0 +1,41 @@
+.container {
+    background-color: rgb(255, 179, 79);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid #000000;
+    border-radius: 15px;
+    height: 100%;
+  }
+  
+  #judul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  #form1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  #resultbox {
+    width: 300px;
+    height: 100px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #e9b544;
+    border-radius: 15px;
+    text-align: center;
+  }
